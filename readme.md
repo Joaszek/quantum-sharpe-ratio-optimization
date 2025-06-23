@@ -25,12 +25,3 @@ This project demonstrates portfolio optimization using the Sharpe ratio, leverag
 
 - **Result Visualization:**  
   [`src/plot_results.py`](src/plot_results.py) generates plots for objective value, realized profit, and selected assets over time.
-
-## How to Run
-
-1. **Install Requirements:**
-   - Python 3.8+
-   - `qiskit`, `qiskit-optimization`, `matplotlib`, `pandas`, `numpy`
-
-   ```sh
-   pip install qiskit qiskit-optimization matplotlib pandas numpy
